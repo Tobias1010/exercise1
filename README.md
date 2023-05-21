@@ -1,5 +1,6 @@
 # Prerequisite
-python 3.9+
+python versions tested:
+* 3.9+
 
 OS tested:
  * Windows
