@@ -8,7 +8,7 @@ OS tested:
 Open a terminal and navigate to your working directory.
 
 
-Clone repository.
+Clone repository:
 ```commandline
 git clone https://github.com/Tobias1010/exercise1.git
 ```
