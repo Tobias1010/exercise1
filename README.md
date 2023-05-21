@@ -10,11 +10,11 @@ Open a terminal and navigate to your working directory.
 
 Clone repository.
 ```commandline
-git clone https://github.com/Tobias1010/task1.git .
+git clone https://github.com/Tobias1010/exercise1.git
 ```
 
 Create virtual env and install dependencies:
-```
+```commandline
 conda create -n my_venv python
 conda activate my_venv
 pip install -r requirements.txt
